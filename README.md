@@ -23,4 +23,4 @@ In order to re-run the tests for BERT:
 
 The cell outputs have been wiped for code readability purposes. 
 
-The project report can be found [here](https://drive.google.com/file/d/1win-9LBOucD8JHj-FJlk1rBCK-uwxpD9/view?usp=sharing).
+The project report can be found [here](https://drive.google.com/file/d/1win-9LBOucD8JHj-FJlk1rBCK-uwxpD9/view?usp=sharing) and uploaded to this repository.
